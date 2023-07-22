@@ -1,0 +1,9 @@
+div.container{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 200px 400px;
+}
+div.available{
+    overflow-y:auto;
+    color: aqua;
+}
